@@ -4,9 +4,9 @@ Code full BR
 
 ## Dependencies
 
-* [youtube-info] - Fetch meta information about YouTube videos
-* [youtube-mp3-downloader] - Downloads Youtube videos (in parallel, as streams), encodes the audio data as mp3 and stores them in a defineable location
-* [youtube-playlist-info] - Youtube playlist information fetcher.
+* [youtube-info](https://www.npmjs.com/package/youtube-info) - Fetch meta information about YouTube videos
+* [youtube-mp3-downloader](https://www.npmjs.com/package/youtube-mp3-downloader) - Downloads Youtube videos (in parallel, as streams), encodes the audio data as mp3 and stores them in a defineable location
+* [youtube-playlist-info](https://www.npmjs.com/package/youtube-playlist-info) - Youtube playlist information fetcher.
 
 ## Installation
 Check that you have node and npm installed
