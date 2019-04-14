@@ -54,7 +54,7 @@ function validaCaracteres(strToReplace) {
 
 // Instalação
 function Playlist(args) {
-    ypi("AIzaSyAvGly2Dy9fUfAtwicZvOcjlWCA_2sK6Cg", args).then(items => {
+    ypi("Seu Token do Youtube APIV3", args).then(items => {
         console.log("[ " + items.length + " ] Músicas estão começando a serem baixadas!")
         for (var i = 0; i < items.length; i++) {
             let VideoId = items[i].resourceId.videoId
